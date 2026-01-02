@@ -96,8 +96,6 @@ Full-stack oriented project focused on **business logic**, **data flow**, and **
 
 ---
 
-## 🐍 Contributions
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jpedro900/Jpedro900/output/github-contribution-grid-snake-dark.svg" />
 </p>
