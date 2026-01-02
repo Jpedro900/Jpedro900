@@ -11,8 +11,7 @@
 
 ## 👋 Hi, I’m João Pedro
 
-Computer Science student focused on **Full-Stack Web Development**, with strong interest in building **scalable, well-structured applications** from front-end to back-end.  
-I learn by developing real projects, studying modern architectures, and applying best practices across the entire stack.
+Computer Science student focused on **Full-Stack Web Development**, building applications end-to-end with attention to structure, maintainability, and good engineering practices.
 
 🎯 Currently looking for **internship or junior full-stack opportunities**.
 
@@ -22,39 +21,53 @@ I learn by developing real projects, studying modern architectures, and applying
 
 - 🎓 Bachelor’s student in **Computer Science**
 - 💻 **Full-Stack focused** (Web)
-- 📐 Strong interest in **component-based architecture, APIs, and system design fundamentals**
+- 📐 Interest in **component-based architecture, APIs, and web development**
 - 🚀 Learning through **hands-on projects** and **structured study**
-- 📈 Constantly improving **technical fundamentals across front-end and back-end**
+- 📈 Constantly improving technical fundamentals
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages & Markup
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=fff)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+
+---
 
 ### Front-end
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
 
-### Back-end (Learning & Building)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express)
-![REST API](https://img.shields.io/badge/REST%20API-0D1117?style=for-the-badge)
+---
 
-### Database & ORM
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
+### State & Data
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff)
+
+---
+
+### Back-end
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![Express](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=fff)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+
+---
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+
+---
 
 ### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma)
-![Trello](https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=trello)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=fff)
 
 ---
 
@@ -62,14 +75,13 @@ I learn by developing real projects, studying modern architectures, and applying
 
 ### 🔹 Clone TabNews (curso.dev – Filipe Deschamps)
 
-Project developed as part of **curso.dev**, focusing on building a real-world application from scratch.  
-Main learnings include **full-stack application architecture**, **API design and consumption**, **database modeling**, **front-end and back-end integration**, **version control**, and **professional development workflows**, with emphasis on clean code and scalability.
+Built during **curso.dev**, focusing on real-world development practices such as **full-stack architecture**, **API integration**, **database fundamentals**, and **professional workflows**.
 
 🔗 https://github.com/Jpedro900/clone-tabnews
 
 ### 🔹 SmartCalc
 
-Full-stack oriented web project focused on **business logic**, **data handling**, and **reusable UI components**, built to strengthen understanding of application flow and maintainability.
+Full-stack oriented project focused on **business logic**, **data flow**, and **reusable UI components**, designed to improve maintainability and structure.
 
 🔗 https://github.com/Jpedro900/SmartCalc
 
@@ -78,16 +90,8 @@ Full-stack oriented web project focused on **business logic**, **data handling**
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Jpedro900&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"
-    height="160"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpedro900&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"
-    height="160"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jpedro900&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpedro900&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" height="160" />
 </p>
 
 ---
@@ -100,14 +104,22 @@ Full-stack oriented web project focused on **business logic**, **data handling**
 
 ---
 
-## 📬 Contact
+## 📬 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jpedrocsouza/)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram)](https://instagram.com/jpedrocs_)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail)](mailto:jpedro.cs09@gmail.com)=
+<p>
+  <a href="https://www.linkedin.com/in/jpedrocsouza/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" />
+  </a>
+  <a href="https://instagram.com/jpedrocs_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff" />
+  </a>
+  <a href="mailto:jpedro.cs09@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&section=footer&theme=github_dark" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=80&section=footer&color=0A66C2&theme=github_dark" />
 </p>
