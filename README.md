@@ -4,7 +4,7 @@
      =========================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&text=João%20Pedro%20Souza&fontSize=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer&descAlignY=65&theme=github_dark" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&text=João%20Pedro%20Souza&fontSize=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer&descAlignY=65&color=0A66C2&theme=github_dark" />
 </p>
 
 ---
@@ -78,8 +78,16 @@ Full-stack oriented web project focused on **business logic**, **data handling**
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jpedro900&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpedro900&layout=compact&theme=github_dark&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Jpedro900&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"
+    height="160"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpedro900&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"
+    height="160"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -95,7 +103,7 @@ Full-stack oriented web project focused on **business logic**, **data handling**
 ## 📬 Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/jpedrocsouza/
-- **Instagram:** https://instagram.com/jpedrocs_
+- **Instagram:** https://instagram.com/jpedrocs_/
 - **Email:** jpedro.cs09@gmail.com
 
 ---
