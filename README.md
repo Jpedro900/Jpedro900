@@ -31,30 +31,30 @@ I learn by developing real projects, studying modern architectures, and applying
 ## 🛠️ Tech Stack
 
 ### Languages & Markup
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3)
 
 ### Front-end
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-111?style=for-the-badge&logo=tailwindcss)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss)
 
 ### Back-end (Learning & Building)
-![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-111?style=for-the-badge&logo=express)
-![REST API](https://img.shields.io/badge/REST%20APIs-111?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/REST%20API-0D1117?style=for-the-badge)
 
 ### Database & ORM
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
 
 ### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-111?style=for-the-badge&logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/Figma-111?style=for-the-badge&logo=figma)
-![Trello](https://img.shields.io/badge/Trello-111?style=for-the-badge&logo=trello)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma)
+![Trello](https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=trello)
 
 ---
 
@@ -102,9 +102,9 @@ Full-stack oriented web project focused on **business logic**, **data handling**
 
 ## 📬 Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/jpedrocsouza/
-- **Instagram:** https://instagram.com/jpedrocs_/
-- **Email:** jpedro.cs09@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jpedrocsouza/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram)](https://instagram.com/jpedrocs_)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail)](mailto:jpedro.cs09@gmail.com)=
 
 ---
 
