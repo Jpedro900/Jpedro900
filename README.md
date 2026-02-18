@@ -13,7 +13,7 @@
 
 Computer Science student focused on **Full-Stack Web Development**, building applications end-to-end with attention to structure, maintainability, and good engineering practices.
 
-🎯 Currently looking for **internship or junior full-stack opportunities**.
+🎯 Currently looking for **internship or junior front-end opportunities**.
 
 ---
 
