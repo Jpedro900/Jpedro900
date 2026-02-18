@@ -1,17 +1,12 @@
-<!-- ===========================
-     João Pedro Souza
-     GitHub Profile README
-     =========================== -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&text=João%20Pedro%20Souza&fontSize=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer&descAlignY=65&color=0A66C2&theme=github_dark" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&text=João%20Pedro%20Souza&fontSize=38&desc=Computer%20Science%20Student%20%7C%20Front-End%20Developer&descAlignY=65&color=0A66C2&theme=github_dark" />
 </p>
 
 ---
 
 ## 👋 Hi, I’m João Pedro
 
-Computer Science student focused on **Full-Stack Web Development**, building applications end-to-end with attention to structure, maintainability, and good engineering practices.
+Computer Science student focused on **Front-End Web Development**, building modern, responsive, and user-centered interfaces with attention to usability, performance, and clean component architecture.
 
 🎯 Currently looking for **internship or junior front-end opportunities**.
 
@@ -20,10 +15,10 @@ Computer Science student focused on **Full-Stack Web Development**, building app
 ## 🧠 About Me
 
 - 🎓 Bachelor’s student in **Computer Science**
-- 💻 **Full-Stack focused** (Web)
-- 📐 Interest in **component-based architecture, APIs, and web development**
+- 🎨 Focused on **Front-End Development**
+- 🧩 Interest in **UI architecture, component systems, and UX**
 - 🚀 Learning through **hands-on projects** and **structured study**
-- 📈 Constantly improving technical fundamentals
+- 📈 Constantly improving technical and design fundamentals
 
 ---
 
@@ -49,18 +44,6 @@ Computer Science student focused on **Full-Stack Web Development**, building app
 
 ---
 
-### Back-end
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
-![Express](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=fff)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
-
----
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
-
----
-
 ### Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
@@ -75,13 +58,15 @@ Computer Science student focused on **Full-Stack Web Development**, building app
 
 ### 🔹 Clone TabNews (curso.dev – Filipe Deschamps)
 
-Built during **curso.dev**, focusing on real-world development practices such as **full-stack architecture**, **API integration**, **database fundamentals**, and **professional workflows**.
+Built during **curso.dev**, focusing on real-world practices such as **component-based UI**, **API consumption**, **state management**, and **front-end architecture**.
 
 🔗 https://github.com/Jpedro900/clone-tabnews
 
+---
+
 ### 🔹 SmartCalc
 
-Full-stack oriented project focused on **business logic**, **data flow**, and **reusable UI components**, designed to improve maintainability and structure.
+Front-end oriented project focused on **UI structure**, **data flow visualization**, and **reusable components**, designed to enhance maintainability and user experience.
 
 🔗 https://github.com/Jpedro900/SmartCalc
 
